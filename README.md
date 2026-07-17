@@ -100,11 +100,7 @@ currently_building: "A foundation to thrive at the intersection of Engineering &
 
 <img src="https://raw.githubusercontent.com/ahsannhayyat2007-beep/ahsannhayyat2007-beep/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-</div>
 
-> ℹ️ To activate this, add the GitHub Actions workflow from the setup notes below to your profile repo.
-
-<br/>
 
 <div align="center">
 
